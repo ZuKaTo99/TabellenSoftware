@@ -1,23 +1,23 @@
 # TabellenSoftware
 
-TabellenSoftware ist ein privates C#/.NET-Projekt zur Arbeit mit Excel-Dateien.
+TabellenSoftware is a private C#/.NET project for working with Excel files.
 
-Das Programm unterstützt beim Vergleichen, Prüfen und Auswerten von Tabellen. Zusätzlich können Berichte erzeugt werden, zum Beispiel als PDF.
+The application helps with comparing, checking, and evaluating table data. It can also generate reports, for example as PDF files.
 
 ## Status
 
-Der Quellcode ist aktuell nicht öffentlich verfügbar.
+The source code is currently not publicly available.
 
-Dieses Repository dient nur als öffentliche Projektübersicht.
+This repository is only used as a public project overview.
 
-## Technik
+## Technology
 
 * C#
 * .NET
 * WinForms
-* Excel-Verarbeitung
-* PDF-Berichte
+* Excel processing
+* PDF reports
 
-## Hinweis
+## Note
 
-Der echte Quellcode liegt in einem privaten Repository.
+The real source code is stored in a private repository.
